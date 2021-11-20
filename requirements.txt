@@ -1,0 +1,15 @@
+setuptools
+Flask
+flask_wtf
+numpy
+pandas
+nltk
+Keras
+requests
+pygame
+COVID19Py
+gunicorn
+billboard.py
+pytz
+tensorflow
+#https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow_cpu-2.2.0-cp36-cp36m-manylinux2010_x86_64.whl
